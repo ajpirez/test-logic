@@ -14,7 +14,6 @@
   "license": "ISC",
   "devDependencies": {
     "@types/express": "^4.16.1",
-    "tslint": "file:5.12.1",
     "typescript": "^5.1.6"
   },
   "dependencies": {
