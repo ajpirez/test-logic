@@ -55,7 +55,7 @@ export class BinaryTree {
             }
         };
         traverse(this.root);
-        // console.log(values);
+        console.log(values);
     }
 }
 
